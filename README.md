@@ -14,7 +14,7 @@ I've graduated from a Master of Science in Information Systems Architecture and 
 
 ## 🛠 Projects references
 
-🎨 Retro Portfolio
+🎨 [Retro Portfolio](https://iamjimui.github.io/)
 
 3D fusing with Web coding gives an ambient world virtually presenting my portfolio highlighting my experiences and skills.
 
