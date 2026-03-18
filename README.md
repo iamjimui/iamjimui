@@ -24,7 +24,7 @@ I've graduated from a Master of Science in Information Systems Architecture and 
 
 🎮 [Project Soul](https://projectsoul269902195.wordpress.com/)
 
-Inspired by Dark Souls, Project soul is 3D Action Horror Wave Survival Game made with Unity. You incarnate into the last remaining person who has the willpower to save the world from the darkness by consuming the enemies soul and turn the table by using special abilities.
+Inspired by Dark Souls, Project soul is a 3D Action Horror Wave Survival Game made with Unity. You incarnate into the last remaining person who has the willpower to save the world from the darkness by consuming the enemies soul and turn the table by using special abilities.
 
 - Tools used : Wordpress, Unity, Blender, Figma, Trello
 
