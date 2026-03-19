@@ -48,4 +48,4 @@ Striving to understand the company's interests and challenges, which allows me t
 
 📌 Feel free to reach out to me if you're interested !
 
-jimmyhuypro@gmail.com ● My portfolio ● [Linkedin](https://fr.linkedin.com/in/jimmyhuynh99)
+jimmyhuypro@gmail.com ● [Portfolio](https://iamjimui.github.io/) ● [Linkedin](https://fr.linkedin.com/in/jimmyhuynh99)
